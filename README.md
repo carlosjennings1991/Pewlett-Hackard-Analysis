@@ -4,13 +4,13 @@ They call demographics the "hidden science". I don't know who "they" is, but nee
 
 This analysis reviews that phenomenon within one company in a number of ways:
 
-<br/>
+<br />
 
 * **The number of people retiring**
 * **The departments they are retiring in**
 * **Their titles**
 * **How long they've been with the company**
-<br/>
+<br />
 
 ### The following work has been done in SQL through pgAdmin. 
 Source code available [here](https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
@@ -25,5 +25,5 @@ Deliverables 4: the unique number of those eligible for the mentorship program
 
 First and foremost, we need to find out that of all the employees in the company, who are those about to retire. Luckily for us, retirement at this company is simply a function of age, so we can filter by birthdate. So after creating a database in pgAdmin and importing the correct csv file, we run this code. 
 
-![retirement_finder](https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirees_code.png)
+<img src ="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirees_code.png">
 
