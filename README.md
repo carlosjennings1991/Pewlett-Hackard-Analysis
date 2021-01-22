@@ -29,6 +29,7 @@ First and foremost, we need to find out that of all the employees in the company
 
 The result of this code is that we find 41,380 employees who are ostensibly eligible for retirement, as shown below. 
 
+
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/amount_retiring.png">
 
 
