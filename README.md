@@ -34,7 +34,7 @@ The result of this code is that we find 41,380 employees who are ostensibly elig
 
 However, we made a critical mistake. The above code assumes that everyone in the system is a *current* employee. We have to filter to make sure those people who were born & hired in the right time slot are still working at Pewlett-Hackard. The below code takes this variable into account and returns a correct number of employees eligible for retirement. 
 
-<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/correct_retiring_code.png">
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/correct_retiring_code.png" width="500" height"435">
 
 ## Results 2: Their Title (at retirement)
 
