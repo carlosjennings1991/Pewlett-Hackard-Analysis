@@ -36,6 +36,10 @@ However, we made a critical mistake. The above code assumes that everyone in the
 
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/correct_retiring_code.png" width="360" height="313">
 
+As a result, we find the accurate number below. 
+
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/correct_retiring_amount.png">
+
 ## Results 2: Their Title (at retirement)
 
 We also want to know what position they are retiring at, since their replacements will need to be changed. In order to find that info we can do the following. 
