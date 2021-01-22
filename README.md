@@ -4,10 +4,10 @@ They call demographics the "hidden science". I don't know who "they" is, but nee
 
 This analysis reviews that phenomenon within one company in a number of ways:
 <br/>
-** The number of people retiring **
-** The departments they are retiring in **
-** Their titles **
-** How long they've been with the company **
+**The number of people retiring**
+**The departments they are retiring in**
+**Their titles**
+**How long they've been with the company**
 
 The following work has been done in SQL through pgAdmin. 
 
