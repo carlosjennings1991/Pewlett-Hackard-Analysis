@@ -32,5 +32,6 @@ The result of this code is that we find 41,380 employees who are ostensibly elig
 <br />
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/amount_retiring.png">
 
+## Results 2: Their Title (at retirement)
 
-
+So, turns out we ran into a little problem in the above code. When we run it, some people show up multiple times. Upon closer inspection, we see that when someone was promoted from "Engineer" to "Senior Engineer" they are in the sytem two times, for each position respectively. 
