@@ -10,7 +10,6 @@ This analysis reviews that phenomenon within one company in a number of ways:
 * **Their titles**
 * **How long they've been with the company**
 <br/>
-
 The following work has been done in SQL through pgAdmin. 
 
 ---
