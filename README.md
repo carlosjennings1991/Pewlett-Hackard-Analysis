@@ -16,5 +16,7 @@ This analysis reviews that phenomenon within one company in a number of ways:
 Source code available [here](https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_challenge.sql)
 
 ---
-adsf
-asdfasdf
+Deliverables 1: those retiring
+Deliverables 2: their title (at retirement)
+Deliverables 3: those eligible for the "mentorship program"
+Deliverables 4: the unique number of those eligible for the mentorship program
