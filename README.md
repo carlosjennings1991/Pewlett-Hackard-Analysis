@@ -42,4 +42,4 @@ As a result, we find the accurate number below.
 
 ## Results 2: Their Title (at retirement)
 
-We also want to know what position they are retiring at, since their replacements will need to be changed. In order to find that info we can do the following. 
+We also want to know what position they are retiring at, since their replacements will need to be changed. In order to find that info we can do the following. Considering these are mature workers with many years of experience, we can assume that they are retiring at high positions relative to the company workforce as a whole. 
