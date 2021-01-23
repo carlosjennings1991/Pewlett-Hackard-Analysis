@@ -86,4 +86,4 @@ Obviously, this number is much lower than number of retiring workers. Secondly, 
 
 This produces the following table showing us that department breakdown. 
 
-<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_departments_table.png">
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_departments_table.png" width="400" height="394">
