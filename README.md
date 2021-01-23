@@ -54,6 +54,10 @@ The above code gives us the below result:
 
 Now that we have a broad-level understanding of where the retirements are taking place, lets go a bit deeper and see the titles of the individual employees set to retire so we can better understand the training that needs to be given to their replacement. 
 
-The following code does just that. 
+The following code does just that. Note that "select count" acts very similarly to a pivot table in Excel where we are simply rearranging previously existing data to quickly display something we want. 
 
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirement_totals_code.png" width="400" height="156">
+
+And the above code yields the following totals: 
+
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirement_totals_final.png">
