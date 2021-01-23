@@ -60,4 +60,4 @@ The following code does just that. Note that "select count" acts very similarly 
 
 And the above code yields the following totals: 
 
-<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirement_totals_final.png" width="350" height="307">
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirement_totals_final.png" width="300" height="263">
