@@ -67,3 +67,5 @@ And the above code yields the following totals:
 ---
 
 ## Summary
+
+Unsurprisingly, there is a lot of talent leaving the workforce, and that domain knowledge definitely needs to be replaced. 
