@@ -90,4 +90,8 @@ This produces the following table showing us that department breakdown.
 
 Fortunately, the top three outgoing departments (Development, Production, and Sales) line up with the top three potential mentors. However, each incoming mentor in development needs to train approx. 22.2 replacements to 'future-proof' that department. 
 
-Similarly, each incoming mento in production needs to train approx. 
+Similarly, each incoming mento in production needs to train approx. 25.4 replacements to 'future-proof' that department. 
+
+Needless to say, each mentor has quite the task. Even if you broaden the range of mentors to mirror that of retiring workers (i.e 3 years) each mentor would need to train 6-10 younger workers at what looks to be highly technical positions. 
+
+Of course, this could prove to be an opportunity and literally inject fresh blood into leadership positions OR it could in a haphazardly-managed disaster. 
