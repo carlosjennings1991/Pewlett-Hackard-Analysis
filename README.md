@@ -74,3 +74,6 @@ The below code creates the desired filter.
 
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_code.png" width="500" height="374">
 
+We can now take a cursory glance at those eligible for the mentorship program. 
+
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_table.png">
