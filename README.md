@@ -53,3 +53,7 @@ The above code gives us the below result:
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirees_by_dept_totals.png" width="450" height="291">
 
 Now that we have a broad-level understanding of where the retirements are taking place, lets go a bit deeper and see the titles of the individual employees set to retire so we can better understand the training that needs to be given to their replacement. 
+
+The following code does just that. 
+
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirement_totals_code.png" width="400" height="156">
