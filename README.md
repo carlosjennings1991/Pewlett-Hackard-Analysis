@@ -83,3 +83,7 @@ Now by running this code ("SELECT COUNT(emp_no) FROM mentorship_eligibility;") i
 Obviously, this number is much lower than number of retiring workers. Secondly, we want to see which departments the potential mentors are currently working in (the code below does that), as we need to proportionally compensate the number of outgoing workers with incoming mentors. 
 
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_departments_code.png" width="450" height="182">
+
+This produces the following table showing us that department breakdown. 
+
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_departments_table.png">
