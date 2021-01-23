@@ -68,4 +68,4 @@ And the above code yields the following totals:
 
 ## Summary
 
-Unsurprisingly, there is a lot of talent leaving the workforce, and that domain knowledge definitely needs to be replaced. 
+Unsurprisingly, there is a lot of talent leaving the workforce, and that domain knowledge definitely needs to be replaced. For our circumstances, we'd need to look at the cadre of employees of similar talent level, but who still have some time at the company. These employees not only would fill in the immediate gap of the departing employees but also train the even younger employees and *'future-proof'* the company. 
