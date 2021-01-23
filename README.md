@@ -81,3 +81,5 @@ We can now take a cursory glance at those eligible for the mentorship program.
 Now by running this code ("SELECT COUNT(emp_no) FROM mentorship_eligibility;") in the query editor we find that there are only 1,549 current employees who fit the criteria for the mentorship program. 
 
 Obviously, this number is much lower than number of retiring workers. Secondly, we want to see which departments the potential mentors are currently working in (the code below does that), as we need to proportionally compensate the number of outgoing workers with incoming mentors. 
+
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_departments_code.png">
