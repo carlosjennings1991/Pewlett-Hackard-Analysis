@@ -63,3 +63,7 @@ And the above code yields the following totals:
 <br />
 
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirement_totals_final.png" width="300" height="263">
+
+---
+
+## Summary
