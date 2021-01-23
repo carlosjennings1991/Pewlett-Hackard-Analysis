@@ -51,3 +51,5 @@ First and foremost, lets see the departments where those employees are retiring 
 The above code gives us the below result:
 
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirees_by_dept_totals.png" width="450" height="291">
+
+Now that we have a broad-level understanding of where the retirements are taking place, lets go a bit deeper and see the titles of the individual employees set to retire so we can better understand the training that needs to be given to their replacement. 
