@@ -88,4 +88,6 @@ This produces the following table showing us that department breakdown.
 
 <img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/mentorship_departments_table.png" width="400" height="394">
 
-Fortunately, the top three outgoing departments (Development, Production, and Sales) line up with the top three potential mentors. However, each incoming mentor in development needs to train approx 
+Fortunately, the top three outgoing departments (Development, Production, and Sales) line up with the top three potential mentors. However, each incoming mentor in development needs to train approx. 22.2 replacements to 'future-proof' that department. 
+
+Similarly, each incoming mento in production needs to train approx. 
