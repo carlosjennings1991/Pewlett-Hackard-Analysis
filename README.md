@@ -46,4 +46,4 @@ We also want to know what position they are retiring at, since their replacement
 
 First and foremost, lets see the departments where those employees are retiring from. The below code filters a couple tables to see the retirees by department. 
 
-<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirees_by_dept.png" width="450" height="343">
+<img src="https://github.com/carlosjennings1991/Pewlett-Hackard-Analysis/blob/main/Photos/retirees_by_dept.png" width="400" height="305">
